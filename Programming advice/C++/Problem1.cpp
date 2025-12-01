@@ -7,6 +7,6 @@ void PrintName(string Name)
 }
 int main()
 {
-	PrintName("Khazaal");
+	PrintName("Alice");
 	return 0;
 }
